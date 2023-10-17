@@ -7,7 +7,7 @@ from sklearn.experimental import enable_iterative_imputer
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__),'..')))
 
-from src.features import clean_data as bld
+from features import clean_data as bld
 
 def process_data(input_path,interim_path,processed_path):
     
@@ -40,3 +40,4 @@ if __name__ == '__main__':
     
     args = parser.parse_args()
     main(args)
+    
