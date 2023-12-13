@@ -12,7 +12,10 @@ This tool is invaluable for healthcare providers, insurance companies, and healt
 
 ## Features
 
-Accurate Predictions: The model is trained the Framingham dataset, ensuring reliable risk assessments.
-User-Friendly Interface: Intuitive design for easy input of health metrics and understanding of results.
-Actionable Insights: Provides more than just numbers—our tool suggests potential lifestyle changes to mitigate risk.
-Data-Driven Decisions: Empowers stakeholders to make informed choices based on predictive analytics.
+- Data cleaning.
+- Exploratory Data Analysis
+- Understanding of the context
+- Data visualization
+- Outliers handling
+- Feature engineering
+- Machine learning.
