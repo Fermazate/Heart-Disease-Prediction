@@ -19,3 +19,11 @@ This tool is invaluable for healthcare providers, insurance companies, and healt
 - Outliers handling
 - Feature engineering
 - Machine learning.
+
+### Data preparation
+
+[Data preparation notebook](https://github.com/Fermazate/Heart-Disease-Prediction/blob/main/notebooks/01_data_preparation.ipynb)
+
+### EDA and Machine Learning
+
+[Exploratory Data Analysis and Machine Learning](https://github.com/Fermazate/Heart-Disease-Prediction/blob/main/notebooks/02_data_exploration.ipynb)
